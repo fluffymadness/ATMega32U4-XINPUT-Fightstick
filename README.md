@@ -31,19 +31,33 @@ You can switch seamlessly between the 2 modes by pressing START+SELECT.
 Here is the Pinnumbers to Button Mapping for Connecting the actual physical cables to a Pro Micro.
 
 ​    joystickUP.attach(0,INPUT_PULLUP);
+
 ​    joystickDOWN.attach(1,INPUT_PULLUP);
+
 ​    joystickLEFT.attach(2,INPUT_PULLUP);
+
 ​    joystickRIGHT.attach(3,INPUT_PULLUP);
+
 ​    buttonA.attach(4,INPUT_PULLUP);
+
 ​    buttonB.attach(5,INPUT_PULLUP);;
+
 ​    buttonX.attach(6,INPUT_PULLUP);
+
 ​    buttonY.attach(7,INPUT_PULLUP);
+
 ​    buttonLB.attach(9,INPUT_PULLUP);
+
 ​    buttonRB.attach(8,INPUT_PULLUP);
+
 ​    buttonLT.attach(14,INPUT_PULLUP);
+
 ​    buttonRT.attach(10,INPUT_PULLUP);
+
 ​    buttonSTART.attach(15,INPUT_PULLUP);
+
 ​    buttonSELECT.attach(16,INPUT_PULLUP);
+
 ​    buttonHOME.attach(18,INPUT_PULLUP);
 
 ### Credits
